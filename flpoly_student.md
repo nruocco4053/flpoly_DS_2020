@@ -1,23 +1,23 @@
-## First Name Last Name
+## Nick Ruocco
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Operations Research
 
-- Course 2
+- International and Comparative Dimensions in Business
 
-- Course 3
+- Intro to Data Science
 
-- Course 4
+- Strategic Management
 
-**Hobbies:**
+**Hobbies: Movies, Video games, comic books.**
 
 I am _passionate about_: 
 
-- Thing 1
+- My education
 
-- Thing 2
+- MY family
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Florida Poltech
