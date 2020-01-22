@@ -19,7 +19,9 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 |**EGN**    | **3448**   | _Operations Research_|   3     |
 
 |**A**|
+
 |**B**|
+
 |**C**|
 
 
