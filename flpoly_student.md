@@ -24,6 +24,8 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 |**C**|
 
+## Problem 2 ##
+## International and Comparative Dimensions in Business
 
 - Operations Research
 
