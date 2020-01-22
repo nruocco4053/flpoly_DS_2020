@@ -1,11 +1,13 @@
+git commit -m "
 ## title: "Introduction to Data Science"
 ## subtitle: "Homework 1"
 ## author: "Nick Ruocco - 'nruocco4053@floridapoly.edu'"  
 ## output: html_notebook
-
+"
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+
 
 ## Problem 1
 
