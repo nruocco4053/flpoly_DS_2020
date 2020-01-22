@@ -30,7 +30,15 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 ### The business dealings with another country varies greatly by the type of government. https://floridapolytechnic.instructure.com/courses/3851
 ### Larger multinational corporations can negatively effect local economies as much as they can benefit them. https://floridapolytechnic.instructure.com/courses/3851
 
-- Operations Research
+## Operations Research
+### A proper business should be prepared for the unlikely.  https://floridapolytechnic.instructure.com/files/1874425/download?download_frd=1
+### Quality control is an important part of success. https://floridapolytechnic.instructure.com/files/1874425/download?download_frd=1
+### A business is more successful with more minds working together.  https://floridapolytechnic.instructure.com/files/1874426/download?download_frd=1
+
+
+
+
+- Operations Research 
 
 - International and Comparative Dimensions in Business
 
