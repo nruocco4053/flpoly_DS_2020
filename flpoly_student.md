@@ -18,9 +18,9 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 |**GEB**    | **3373**   | _International and Comparative Dimensions in Business_|   3     |
 |**EGN**    | **3448**   | _Operations Research_|   3     |
 
-_ A
-B
-C_
+**A**
+**B**
+**C**
 
 
 - Operations Research
