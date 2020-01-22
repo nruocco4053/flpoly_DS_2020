@@ -24,8 +24,11 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 |**C**|
 
-# Problem 2 ##
+# Problem 2
 ## International and Comparative Dimensions in Business
+### Understanding Foreign cultures is key do international business. https://floridapolytechnic.instructure.com/courses/3851
+### The business dealings with another country varies greatly by the type of government. https://floridapolytechnic.instructure.com/courses/3851
+### Larger multinational corporations can negatively effect local economies as much as they can benefit them. https://floridapolytechnic.instructure.com/courses/3851
 
 - Operations Research
 
