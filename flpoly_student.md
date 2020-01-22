@@ -15,8 +15,9 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 - **MAN**
 - **4633**
-- **Strategic Management**
+- _Strategic Management_
 - **3 Credits**
+
 **Hobbies: Movies, Video games, comic books.**
 
 I am _passionate about_: 
