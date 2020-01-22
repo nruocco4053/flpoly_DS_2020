@@ -1,5 +1,5 @@
 
-## title: "Introduction to Data Science"
+##title: "Introduction to Data Science"
 ## subtitle: "Homework 1"
 ## author: "Nick Ruocco - 'nruocco4053@floridapoly.edu'"  
 ## output: html_notebook
@@ -24,7 +24,7 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 |**C**|
 
-## Problem 2 ##
+# Problem 2 ##
 ## International and Comparative Dimensions in Business
 
 - Operations Research
