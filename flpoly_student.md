@@ -36,9 +36,9 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 ### A business is more successful with more minds working together.  https://floridapolytechnic.instructure.com/files/1874426/download?download_frd=1
 
 
-#Problem 3
+# Problem 3
 
-##A.  
+## A.  
 
 - Operations Research 
 
