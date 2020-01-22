@@ -1,7 +1,7 @@
 ## title: "Introduction to Homework 1"
 ## subtitle: "Homework 1"
-## author: Nick Ruocco
-## 
+## author: "Nick Ruocco - 'nruocco4053@floridapoly.edu'"  
+## output: html_notebook
 
 ### Spring 2020 
 
@@ -13,8 +13,10 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 - Intro to Data Science
 
-- Strategic Management
-
+- **MAN**
+- **4633**
+- **Strategic Management**
+- **3 Credits**
 **Hobbies: Movies, Video games, comic books.**
 
 I am _passionate about_: 
