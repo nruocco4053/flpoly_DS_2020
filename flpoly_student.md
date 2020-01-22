@@ -1,9 +1,9 @@
-
+---
 ##title: "Introduction to Data Science"
 ## subtitle: "Homework 1"
 ## author: "Nick Ruocco - 'nruocco4053@floridapoly.edu'"  
 ## output: html_notebook
-
+---
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
@@ -36,7 +36,7 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 ### A business is more successful with more minds working together.  https://floridapolytechnic.instructure.com/files/1874426/download?download_frd=1
 
 
-# Problem 3
+#Problem 3
 
 ##A.  
 
