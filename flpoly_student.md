@@ -10,6 +10,7 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 ## Problem 1
 
 |**Prefix** | **Number** | _Name_ | Credits |  
+|-----------|------------|--------|---------|
 
 
 - Operations Research
