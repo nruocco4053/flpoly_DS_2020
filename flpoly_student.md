@@ -1,4 +1,4 @@
-## title: "Introduction to Homework 1"
+## title: "Introduction to Data Science"
 ## subtitle: "Homework 1"
 ## author: "Nick Ruocco - 'nruocco4053@floridapoly.edu'"  
 ## output: html_notebook
