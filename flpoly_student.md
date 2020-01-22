@@ -11,7 +11,7 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 |**Prefix** | **Number** | _Name_----------------| Credits |  
 |-----------|------------|:---------------------:|---------|
-|**MAN**    | **4633**   | _Strategic Management_|---3-----|
+|**MAN**    | **4633**   | _Strategic Management_|---3----:|
 
 
 
