@@ -38,7 +38,7 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 # Problem 3
 
-## A.  
+## A.  Nick_Ruocco <- my_name
 
 - Operations Research 
 
