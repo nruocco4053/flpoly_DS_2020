@@ -9,8 +9,10 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 
 ## Problem 1
 
-|**Prefix** | **Number** | _Name_ | Credits |  
-|-----------|------------|--------|---------|
+|**Prefix** | **Number** | _Name_----------------| Credits |  
+|-----------|------------|-----------------------|---------|
+|**MAN**    | **4633**   | _Strategic Management_|---3-----|
+
 
 
 - Operations Research
