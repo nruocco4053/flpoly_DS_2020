@@ -1,4 +1,7 @@
-## Nick Ruocco
+## title: "Introduction to Homework 1"
+## subtitle: "Homework 1"
+## author: Nick Ruocco
+## 
 
 ### Spring 2020 
 
