@@ -28,7 +28,7 @@ I am _passionate about_:
 |**COP**    | **2073**   | _Introduction to Data science_|   3     |
 |**GEB**    | **3373**   | _International and Comparative Dimensions in Business_|   3     |
 |**EGN**    | **3448**   | _Operations Research_|   3     |
-=======
+
 ## Nick Ruocco
 
 ### Spring 2020 
